@@ -1,0 +1,15 @@
+{
+  "cycles"            : 4, 
+  "volumePercent"     : 50,
+  
+  "workDurationM"     : 25,
+  "sBreakDurationM"   : 5,
+  "lBreakDurationM"   : 30,
+  "skipTimeDurationS" : 30,
+  
+  "pausedAtStart"     : true,
+  "pausedAfterWork"   : false,
+  "pausedAfterSBreak" : true,
+  "pausedAfterLBreak" : true
+}
+
